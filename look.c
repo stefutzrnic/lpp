@@ -1,1 +1,1 @@
-printf("don't look down!");
+printf("don't look sideways!");
